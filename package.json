@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-sleeptimer",
+  "version": "0.1.0",
+  "description": "Sleep Timer Plugin",
+  "cordova": {
+    "id": "kr.co.joycorp.cordova.sleeptimerplugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycorp/cordova-plugin-sleeptimer.git"
+  },
+  "keywords": [
+    "sleep",
+    "timer",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/joycorp/cordova-plugin-sleeptimer/issues"
+  },
+  "homepage": "https://github.com/joycorp/cordova-plugin-sleeptimer#readme"
+}
