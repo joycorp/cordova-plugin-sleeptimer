@@ -18,7 +18,7 @@ This plugin is meant to work with Cordova 3.5.0+.
 
 2. Install this plugin using PhoneGap/Cordova cli:
 
-        cordova local plugin add https://github.com/wnyc/cordova-plugin-sleeptimer.git
+        cordova local plugin add https://github.com/colorweb/cordova-plugin-sleeptimer.git
 
 ## Usage
 
