@@ -1,6 +1,6 @@
 # Sleep Timer PhoneGap/Cordova Plugin
 this plugin from https://github.com/wnyc/cordova-plugin-sleeptimer
-changed support cordova 7.0+
+changed support cordova 7.0+ & publish npm list
 
 ### Platform Support
 
